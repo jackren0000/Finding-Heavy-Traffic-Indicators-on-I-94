@@ -4,7 +4,7 @@ Welcome to the I-94 Traffic Detective Project! 🕵️‍♂️
 
 Ever wondered what makes traffic on I-94 go from smooth sailing to bumper-to-bumper? In this project, we dive into real traffic data to uncover the secrets behind those heavy traffic jams. Spoiler: it's not just the weather!
 
-## 📊 What We Did
+## 📊 What I Did
 - **Explored** a rich dataset from the UCI Machine Learning Repository
 - **Visualized** traffic patterns by month, day, and hour
 - **Compared** business days vs. weekends (hint: weekends win!)
