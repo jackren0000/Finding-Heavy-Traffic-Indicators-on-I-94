@@ -1,13 +1,16 @@
-# Traffic Sleuth for I-94
+# 🚦 Finding Heavy Traffic Indicators on I-94
 
-Unraveling rush-hour mysteries on I-94 with Python 🕵️‍♂️🐍
+Welcome to the I-94 Traffic Detective Project! 🕵️‍♂️
 
-## What’s Inside?
-- Crunching traffic data  
-- Spotting peak-jam patterns  
-- Predicting gridlock before it happens 🚦
+Ever wondered what makes traffic on I-94 go from smooth sailing to bumper-to-bumper? In this project, we dive into real traffic data to uncover the secrets behind those heavy traffic jams. Spoiler: it's not just the weather!
 
-## Tech Stack
-Python | pandas | scikit-learn
+## 📊 What We Did
+- **Explored** a rich dataset from the UCI Machine Learning Repository
+- **Visualized** traffic patterns by month, day, and hour
+- **Compared** business days vs. weekends (hint: weekends win!)
+- **Investigated** the impact of weather (rain, snow, and more!)
 
-Ready to tame the traffic beast? 🚗💨
+## 🏆 Key Findings
+- **Time rules the road!** The heaviest traffic happens on weekday mornings and late afternoons, especially in spring and fall.
+- **Weather?** Meh. Most weather has little effect, but watch out for light rain and snow—they can slow things down.
+- **Weekends = Easy cruising.**
